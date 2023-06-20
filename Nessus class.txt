@@ -1,0 +1,27 @@
+Nessus download link-
+
+https://www.tenable.com/downloads/nessus?loginAttempted=true
+
+step 1- Nessus download
+step 2- Nessus installation in windows or linux in VMWare
+step 3- Nesuss Sign up for activation code
+step 4- Open nessuss web portal using- https://localhost:8834, or https://127.0.0.1:8834
+step 5- Press NEW SCAN for create new scan profile
+step 6- Provide information (IP, Credential) regarding the remote host or targeted host
+step 7- Remote host or targeted host recachability check via command promt- ping "ip add"
+step 8- After provide all information to launch the scan and press launch button
+step 9- After scan completion must go through the scan output
+step 10- Download the scan format and share the manager.
+
+============================
+
+Nessus Update CLI
+
+If you have problem with Nessus gui installation, then update it via CMD line.
+On below links, there is given the instruction.
+
+https://docs.tenable.com/nessus/Content/UpdateNessusSoftwareCLI.htm
+
+Open your command line interface and change the directory where nessus has been installed, and then run the below command-
+
+> nessuscli update
